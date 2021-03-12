@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    text-align: center;
+    outline: 10px;
+    letter-spacing:2px;
+}
+
+
+.ram{
+    
+margin-top:15px;
+padding: 10px;
+text-align: center;
+
+}
+
+#heading{
+
+    font-size: 60px;
+} 
+
